@@ -5,8 +5,8 @@ TS -> Babel -> JS
 Built with,
 - TypeScript v4
 - Babel v7
-- Node v14
-- ESLint v7
+- Node v16 
+- ESLint v8
 
 ## Setup
 To install dependancies
