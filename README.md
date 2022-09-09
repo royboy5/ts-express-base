@@ -14,6 +14,8 @@ To install dependancies
 $ npm i
 ```
 
+Rename sample.env to .env
+
 ## Nodemon
 To start nodemon
 ```
